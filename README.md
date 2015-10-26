@@ -1,3 +1,6 @@
+## Why this fork?
+We needed to have the StatusBarIOS to be shown.
+
 ## react-native-drawer-layout
 
 A platform-agnostic drawer layout. Pure JavaScript implementation on iOS and native implementation on Android. Why? Because the drawer layout is a useful component regardless of the platform! And if you can use it without changing any code, that's perfect.
